@@ -15,6 +15,8 @@ RUN yum -y update && yum -y install \
     make \
     perl \
     tar \
+    perl-IPC-Cmd \
+    perl-Pod-Html \
     wget
 
 
