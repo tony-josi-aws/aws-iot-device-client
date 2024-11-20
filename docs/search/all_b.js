@@ -14,7 +14,7 @@ var searchData=
   ['logger_183',['Logger',['../class_aws_1_1_iot_1_1_device_client_1_1_logging_1_1_logger.html',1,'Aws::Iot::DeviceClient::Logging']]],
   ['logger_184',['logger',['../class_aws_1_1_iot_1_1_device_client_1_1_logging_1_1_logger_factory.html#a2e578976f1980624ab0c79c42bb3af5f',1,'Aws::Iot::DeviceClient::Logging::LoggerFactory']]],
   ['loggerfactory_185',['LoggerFactory',['../class_aws_1_1_iot_1_1_device_client_1_1_logging_1_1_logger_factory.html',1,'Aws::Iot::DeviceClient::Logging']]],
-  ['logging_186',['Logging',['../md__home_runner_work_aws_iot_device_client_aws_iot_device_client_doxygen_store_source_logging__r_e_a_d_m_e.html',1,'']]],
+  ['logging_186',['Logging',['../md__home_runner_work_aws_iot_device_client_aws_iot_device_client_source_logging__r_e_a_d_m_e.html',1,'']]],
   ['loglevel_187',['logLevel',['../class_aws_1_1_iot_1_1_device_client_1_1_logging_1_1_logger.html#ada1785780bfd79d789b9edaa798cf4b5',1,'Aws::Iot::DeviceClient::Logging::Logger']]],
   ['logmessage_188',['LogMessage',['../class_aws_1_1_iot_1_1_device_client_1_1_logging_1_1_log_message.html',1,'Aws::Iot::DeviceClient::Logging']]],
   ['logqueue_189',['LogQueue',['../class_aws_1_1_iot_1_1_device_client_1_1_logging_1_1_log_queue.html',1,'Aws::Iot::DeviceClient::Logging']]],
